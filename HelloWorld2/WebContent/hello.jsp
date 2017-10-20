@@ -8,11 +8,17 @@
 </head>
 <body>
 
+	<%@ page import="java.util.Date, gui.*"%>
+
+
+	Hello everybody from hello.jsp! Today's date is:
+	<%=new Date()%>
+
+
 	<p>
-		Hello everybody from hello.jsp! Today's date is:
 		<%=
-		new java.util.Date()
-	%>
+			new InfoCreature().getInfo()
+		%>
 	</p>
 
 </body>

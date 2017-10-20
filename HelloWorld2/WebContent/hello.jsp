@@ -14,8 +14,6 @@
 		new java.util.Date()
 	%>
 	</p>
-	
-	<b>This is another change</b>
 
 </body>
 </html>

@@ -9,6 +9,7 @@
 <body>
 
 <p>Hello world from index.jsp after making some changes</p>
+    <b>changes made on remote repository</b>
 
 
 
